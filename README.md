@@ -1,4 +1,5 @@
-# Group 49: Active Learning for Text Classification
+# Active Learning for Text Classification
+
 
 #### Dependency Libraries
 
